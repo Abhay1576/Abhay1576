@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ABHAY RAINA
-- 👀 I’m interested in Android Development.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Python & C++.
 - 💞️ I’m looking to collaborate on Custom ROM Development.
 - 📫 Reach me on Telegram --> @abhay1576 and on Twitter --> @abhay1576
